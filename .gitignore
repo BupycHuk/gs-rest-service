@@ -12,3 +12,6 @@ dependency-reduced-pom.xml
 *.sublime-*
 /scratch
 .gradle
+.idea
+*.iml
+lib
